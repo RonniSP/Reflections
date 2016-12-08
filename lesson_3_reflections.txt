@@ -1,1 +1,9 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+Using a remote repository makes sense when you want to either:
+
+1: Access the files from several compupters
+
+2: Want a backup of the files in the cloud
+
+3: When you have some files that needs to be accessible and modifiable other people than yourself
